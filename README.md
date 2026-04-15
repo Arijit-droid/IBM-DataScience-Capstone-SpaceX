@@ -191,7 +191,7 @@ This project is licensed under the **GPL-3.0 License** — see the [LICENSE](LIC
 
 This project is the **Capstone** of the [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) on Coursera.
 
-**Author:** Arijit Bose  
+**Author:** Arijit Burman  
 **Certificate:** IBM Data Science Professional Certificate  
 **Year:** 2025–26
 
