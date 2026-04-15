@@ -43,13 +43,6 @@ IBM-DataScience-Capstone-SpaceX/
 │   ├── lab_jupyter_launch_site_location.ipynb                # Week 4 – Folium Maps
 │   ├── SpaceX_Machine Learning Prediction_Part_5.ipynb       # Week 5 – ML Prediction
 │
-├── 📊 Datasets/
-│   ├── dataset_part_1.csv          # Raw API data
-│   ├── dataset_part_2.csv          # After data wrangling
-│   ├── dataset_part_3.csv          # Final feature-engineered dataset
-│   ├── spacex_launch_geo.csv       # Launch site geolocation data
-│   ├── spacex_web_scraped.csv      # Wikipedia scraped data
-│   └── Spacex.csv                  # SQL lab dataset
 │
 ├── 📱 Dashboard/
 │   └── app.py                      # Plotly Dash interactive app
