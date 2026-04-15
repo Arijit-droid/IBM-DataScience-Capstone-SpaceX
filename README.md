@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
 ![IBM](https://img.shields.io/badge/IBM-Data%20Science%20Capstone-052FAD?logo=ibm&logoColor=white)
-![License](https://img.shields.io/badge/License-GPL--3.0-green)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
